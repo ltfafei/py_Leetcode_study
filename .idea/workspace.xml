@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f70de10-59f2-48b7-b076-0281ce650c6c" name="Default" comment="update some leetcode Script">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/23.checkWordAcronym.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/24.compareStatDiff.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/25.analyPhrase.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/26.construcPalindromeStr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/27.findMaxPalindromeStr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/28.joinConstiPalindrome.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/29.stringDecode.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py" />
+    <list default="true" id="5f70de10-59f2-48b7-b076-0281ce650c6c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/12.listCut_and_BubbleSort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/13.isOrderList.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/14.listElement.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/15.fibonacciList.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/16.traverseList.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/17.listsPointDel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/18.mergeLists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/19.palindromeLists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/20.annularLists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/21.odd-evenLists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/22.listsSum_ListReorder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/23.listsInsituOrder_ListsSpin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/24.transBorderListsPoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/25.designListsAndstackStructure.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/26.useStackClearInvalidBracket.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/27.bracketContentReversed.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/28.delReAdjacentStr.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/29.theConditionOperator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,35 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/circle_and_rectangleCheckOverlap.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/8.circle_and_rectangleCheckOverlap.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/9.rectangleOverlap_areg.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/10.findMinRectangle.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/11.maxTriangle_perimeter_And_areg.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/12.count_EffectiveTriangles_nums.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/13.convexPolygon_Check.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/14.3D_surface_area.py" />
-        <option value="$PROJECT_DIR$/graphic_World_PointLinesPlanes/15.3D_surfaceProjection_area.py" />
-        <option value="$PROJECT_DIR$/Strings/1.formatStrings.py" />
-        <option value="$PROJECT_DIR$/Strings/2.formatStrings_adv.py" />
-        <option value="$PROJECT_DIR$/Strings/3.strings_Arrange.py" />
-        <option value="$PROJECT_DIR$/Strings/balanceStrings.py" />
-        <option value="$PROJECT_DIR$/Strings/4.balanceStrings.py" />
-        <option value="$PROJECT_DIR$/Strings/5.countCut_strings.py" />
-        <option value="$PROJECT_DIR$/Strings/6.countMax_continStr.py" />
-        <option value="$PROJECT_DIR$/Strings/7.stringIsOnly.py" />
-        <option value="$PROJECT_DIR$/Strings/8.maxReStr.py" />
-        <option value="$PROJECT_DIR$/Strings/9.findGeneralStr.py" />
-        <option value="$PROJECT_DIR$/Strings/10.strFreque_sort.py" />
-        <option value="$PROJECT_DIR$/Strings/11.strTranslation.py" />
-        <option value="$PROJECT_DIR$/Strings/12.strTranslation_encrypt.py" />
-        <option value="$PROJECT_DIR$/Strings/13.compressStr.py" />
-        <option value="$PROJECT_DIR$/Strings/13.compressStr_and_uncompreStr.py" />
-        <option value="$PROJECT_DIR$/Strings/14.numTrans_str.py" />
-        <option value="$PROJECT_DIR$/Strings/15.exchangeStr.py" />
-        <option value="$PROJECT_DIR$/Strings/17.endWordCount.py" />
-        <option value="$PROJECT_DIR$/Strings/16.countWord.py" />
-        <option value="$PROJECT_DIR$/Strings/17.commonWordCount.py" />
         <option value="$PROJECT_DIR$/Strings/18.splitWord.py" />
         <option value="$PROJECT_DIR$/Strings/19.countWord_minDistance.py" />
         <option value="$PROJECT_DIR$/Strings/20.letterGroupWord.py" />
@@ -82,14 +80,52 @@
         <option value="$PROJECT_DIR$/Strings/29.stringDecode.py" />
         <option value="$PROJECT_DIR$/Strings/27.findMaxPalindromeStr.py" />
         <option value="$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py" />
+        <option value="$PROJECT_DIR$/Strings/31.fuzzy_Match.py" />
+        <option value="$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/12.listCut_and_BubbleSort.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/13.isOrderList.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/14.listElement.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/15.fibonacciList.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/test.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/16.traverseList.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/17.listsPointDel.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/18.mergeLists.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/palindromeLists.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/19.palindromeLists.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/20.annularLists.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/21.odd-evenLists.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/22.listsSum_ListReorder.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/24.transBorderListsPoint.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/25.designListsAndstackStructure.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/23.listsInsituOrder_ListsSpin.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/26.useStackClearInvalidBracket.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/27.bracketContentReversed.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/28.delReAdjacentStr.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/29.theConditionOperator.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-16" />
-    <option name="y" value="52" />
-    <option name="width" value="1226" />
-    <option name="height" value="1037" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="318" />
+    <option name="y" value="80" />
+    <option name="width" value="1042" />
+    <option name="height" value="996" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -125,8 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,10 +172,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,111 +192,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.30.IP_structureAndCheck">
-    <configuration name="26.construcPalindromeStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.34.designQueue">
+    <configuration name="30.delOutermostBlacker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/26.construcPalindromeStr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="27.findMaxPalindromeStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="31.simplifyFilePath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/27.findMaxPalindromeStr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="28.joinConstiPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="32.findHigh-frequencyWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/28.joinConstiPalindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="29.stringDecode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="33.findClose_toOriginPoint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/29.stringDecode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="30.IP_structureAndCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="34.designQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.26.construcPalindromeStr" />
-      <item index="1" class="java.lang.String" itemvalue="Python.27.findMaxPalindromeStr" />
-      <item index="2" class="java.lang.String" itemvalue="Python.28.joinConstiPalindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Python.29.stringDecode" />
-      <item index="4" class="java.lang.String" itemvalue="Python.30.IP_structureAndCheck" />
+      <item index="0" class="java.lang.String" itemvalue="Python.30.delOutermostBlacker" />
+      <item index="1" class="java.lang.String" itemvalue="Python.31.simplifyFilePath" />
+      <item index="2" class="java.lang.String" itemvalue="Python.32.findHigh-frequencyWords" />
+      <item index="3" class="java.lang.String" itemvalue="Python.33.findClose_toOriginPoint" />
+      <item index="4" class="java.lang.String" itemvalue="Python.34.designQueue" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.30.IP_structureAndCheck" />
-        <item index="1" class="java.lang.String" itemvalue="Python.29.stringDecode" />
-        <item index="2" class="java.lang.String" itemvalue="Python.28.joinConstiPalindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Python.27.findMaxPalindromeStr" />
-        <item index="4" class="java.lang.String" itemvalue="Python.26.construcPalindromeStr" />
+        <item index="0" class="java.lang.String" itemvalue="Python.34.designQueue" />
+        <item index="1" class="java.lang.String" itemvalue="Python.33.findClose_toOriginPoint" />
+        <item index="2" class="java.lang.String" itemvalue="Python.32.findHigh-frequencyWords" />
+        <item index="3" class="java.lang.String" itemvalue="Python.31.simplifyFilePath" />
+        <item index="4" class="java.lang.String" itemvalue="Python.30.delOutermostBlacker" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624630450102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update some leetcode Script">
+      <created>1625274453364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625274453364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -311,45 +355,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="318" y="80" width="1042" height="996" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26057082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27911645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4926004" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27283373" sideWeight="0.18551797" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3325527" sideWeight="0.4888889" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27283373" sideWeight="0.81448203" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27892813" sideWeight="0.17178503" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2032419" sideWeight="0.82821494" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3325527" sideWeight="0.4888889" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1546894" sideWeight="0.49040306" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985765" sideWeight="0.4968778" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32886723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2123369" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39929742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -359,263 +384,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="update some leetcode Script" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/12.count_EffectiveTriangles_nums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/11.maxTriangle_perimeter_And_areg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/10.findMinRectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/11.maxTriangle_perimeter_And_areg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/10.findMinRectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/10.findMinRectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/9.rectangleOverlap_areg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/7.rectangle_ChackOverlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/8.circle_and_rectangleCheckOverlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/7.rectangle_ChackOverlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="44" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/8.circle_and_rectangleCheckOverlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/9.rectangleOverlap_areg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/10.findMinRectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1883">
-          <caret line="107" column="67" lean-forward="true" selection-start-line="107" selection-start-column="67" selection-end-line="107" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/11.maxTriangle_perimeter_And_areg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/12.count_EffectiveTriangles_nums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/13.convexPolygon_Check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/1.joinDots_makeLines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="44" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/14.3D_surface_area.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphic_World_PointLinesPlanes/15.3D_surfaceProjection_area.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/2.formatStrings_adv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/4.balanceStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="70" column="3" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/5.countCut_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/6.countMax_continStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/7.stringIsOnly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2457">
-          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/8.maxReStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/9.findGeneralStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/1.formatStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="57" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/13.compressStr_and_uncompreStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2365">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/14.numTrans_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/15.exchangeStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="47" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/17.endWordCount.py" />
-    <entry file="file://$PROJECT_DIR$/Strings/17.commonWordCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="52" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/16.countWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/18.splitWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="36" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/19.countWord_minDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/20.letterGroupWord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/21.statementsSorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -709,9 +483,268 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="119" column="3" lean-forward="true" selection-start-line="119" selection-start-column="3" selection-end-line="119" selection-end-column="3" />
+        <state relative-caret-position="335">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="119" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="54" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="88" column="50" lean-forward="true" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="79" column="36" lean-forward="false" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/12.listCut_and_BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/test.py" />
+    <entry file="file://$PROJECT_DIR$/interesting_Number/5.palindromicNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/17.listsPointDel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/18.mergeLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/20.annularLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/21.odd-evenLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/19.palindromeLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/16.traverseList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="58" column="38" lean-forward="false" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/14.listElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/15.fibonacciList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/13.isOrderList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/22.listsSum_ListReorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2321">
+          <caret line="173" column="3" lean-forward="true" selection-start-line="173" selection-start-column="3" selection-end-line="173" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/25.designListsAndstackStructure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2986">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/24.transBorderListsPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/23.listsInsituOrder_ListsSpin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="119" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/26.useStackClearInvalidBracket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="93" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/27.bracketContentReversed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/28.delReAdjacentStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/29.theConditionOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="52" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/34.designQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="81" column="6" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#526#546#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
