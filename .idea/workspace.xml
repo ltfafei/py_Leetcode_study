@@ -2,41 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f70de10-59f2-48b7-b076-0281ce650c6c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/12.listCut_and_BubbleSort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/13.isOrderList.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/14.listElement.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/15.fibonacciList.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/16.traverseList.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/17.listsPointDel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/18.mergeLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/19.palindromeLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/20.annularLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/21.odd-evenLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/22.listsSum_ListReorder.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/23.listsInsituOrder_ListsSpin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/24.transBorderListsPoint.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/25.designListsAndstackStructure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/26.useStackClearInvalidBracket.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/27.bracketContentReversed.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/28.delReAdjacentStr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/29.theConditionOperator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/1.walkDownStairsQues.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/10.tictactoeGame.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/11.whiteChickenForWhiteMoney.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/12.outputRandomThreeDigt.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/2.guessNumGame.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/3.combination_MealsQue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/4.plantTreeQues.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/5.arithmeticRobot.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/6.pokerGame.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/7.beerBottleQue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/8.lampBulbQue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/aKindOfQuestion/9.gemIdentifity.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/35.analysis_BinaryTreeDeep.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/36.balanceBinaryTree_symmetryBinaryTree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/37.binaryTreeAdd_andTravese.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/38.builtBinaryTree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/39.delBinaryTreePoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/40.isBrotherPoint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/41.binarySum_andAverageValue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/42.entryBintreePointnum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/43.griddingMinDistance.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/magical_DataQueue/44.findAcyclicGraphAllpath.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,31 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Strings/18.splitWord.py" />
-        <option value="$PROJECT_DIR$/Strings/19.countWord_minDistance.py" />
-        <option value="$PROJECT_DIR$/Strings/20.letterGroupWord.py" />
-        <option value="$PROJECT_DIR$/Strings/21.statementsSorted.py" />
-        <option value="$PROJECT_DIR$/Strings/22.wordPresubstitution.py" />
-        <option value="$PROJECT_DIR$/Strings/23.checkWordAcronym.py" />
-        <option value="$PROJECT_DIR$/Strings/24.compareStatDiff.py" />
-        <option value="$PROJECT_DIR$/Strings/25.analyPhrase.py" />
-        <option value="$PROJECT_DIR$/Strings/26.construcPalindromeStr.py" />
-        <option value="$PROJECT_DIR$/Strings/28.joinConstiPalindrome.py" />
-        <option value="$PROJECT_DIR$/Strings/29.stringDecode.py" />
-        <option value="$PROJECT_DIR$/Strings/27.findMaxPalindromeStr.py" />
-        <option value="$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py" />
-        <option value="$PROJECT_DIR$/Strings/31.fuzzy_Match.py" />
-        <option value="$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py" />
-        <option value="$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py" />
         <option value="$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py" />
         <option value="$PROJECT_DIR$/magical_DataQueue/12.listCut_and_BubbleSort.py" />
         <option value="$PROJECT_DIR$/magical_DataQueue/13.isOrderList.py" />
@@ -118,14 +80,39 @@
         <option value="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
         <option value="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
         <option value="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/35.analysis_BinaryTreeDeep.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/36.balanceBinaryTree_symmetryBinaryTree.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/37.binaryTreeAdd_andTravese.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/38.builtBinaryTree.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/39.delBinaryTreePoint.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/40.isBrotherPoint.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/41.binarySum_andAverageValue.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/42.entryBintreePointnum.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/43.griddingMinDistance.py" />
+        <option value="$PROJECT_DIR$/magical_DataQueue/44.findAcyclicGraphAllpath.py" />
+        <option value="$PROJECT_DIR$/tets.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/1.walkDownStairsQues.py" />
+        <option value="$PROJECT_DIR$/Strings/1.formatStrings.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/2.guessNumGame.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/3.combination_MealsQue.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/4.plantTreeQues.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/5.arithmeticRobot.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/6.pokerGame.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/7.beerBottleQue.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/8.lampBulbQue.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/9.gemIdentifity.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/10.tictactoeGame.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/11.whiteChickenForWhiteMoney.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/12.outputRandomThreeDigt.py" />
+        <option value="$PROJECT_DIR$/aKindOfQuestion/13.BonusInteretsRateQues.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="318" />
-    <option name="y" value="80" />
-    <option name="width" value="1042" />
-    <option name="height" value="996" />
+    <option name="x" value="599" />
+    <option name="y" value="58" />
+    <option name="width" value="1016" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -168,17 +155,27 @@
               <item name="python Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="python Leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="aKindOfQuestion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\python Leetcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,111 +189,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.34.designQueue">
-    <configuration name="30.delOutermostBlacker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.outputRandomThreeDigt">
+    <configuration name="10.tictactoeGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aKindOfQuestion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/30.delOutermostBlacker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aKindOfQuestion/10.tictactoeGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="31.simplifyFilePath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.whiteChickenForWhiteMoney" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aKindOfQuestion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/31.simplifyFilePath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aKindOfQuestion/11.whiteChickenForWhiteMoney.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="32.findHigh-frequencyWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.outputRandomThreeDigt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aKindOfQuestion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/32.findHigh-frequencyWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aKindOfQuestion/12.outputRandomThreeDigt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="33.findClose_toOriginPoint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.BonusInteretsRateQues" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aKindOfQuestion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/33.findClose_toOriginPoint.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aKindOfQuestion/13.BonusInteretsRateQues.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="34.designQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9.gemIdentifity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/magical_DataQueue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aKindOfQuestion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/magical_DataQueue/34.designQueue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aKindOfQuestion/9.gemIdentifity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.30.delOutermostBlacker" />
-      <item index="1" class="java.lang.String" itemvalue="Python.31.simplifyFilePath" />
-      <item index="2" class="java.lang.String" itemvalue="Python.32.findHigh-frequencyWords" />
-      <item index="3" class="java.lang.String" itemvalue="Python.33.findClose_toOriginPoint" />
-      <item index="4" class="java.lang.String" itemvalue="Python.34.designQueue" />
+      <item index="0" class="java.lang.String" itemvalue="Python.9.gemIdentifity" />
+      <item index="1" class="java.lang.String" itemvalue="Python.10.tictactoeGame" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11.whiteChickenForWhiteMoney" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12.outputRandomThreeDigt" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13.BonusInteretsRateQues" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.34.designQueue" />
-        <item index="1" class="java.lang.String" itemvalue="Python.33.findClose_toOriginPoint" />
-        <item index="2" class="java.lang.String" itemvalue="Python.32.findHigh-frequencyWords" />
-        <item index="3" class="java.lang.String" itemvalue="Python.31.simplifyFilePath" />
-        <item index="4" class="java.lang.String" itemvalue="Python.30.delOutermostBlacker" />
+        <item index="0" class="java.lang.String" itemvalue="Python.12.outputRandomThreeDigt" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13.BonusInteretsRateQues" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11.whiteChickenForWhiteMoney" />
+        <item index="3" class="java.lang.String" itemvalue="Python.10.tictactoeGame" />
+        <item index="4" class="java.lang.String" itemvalue="Python.9.gemIdentifity" />
       </list>
     </recent_temporary>
   </component>
@@ -355,18 +352,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="318" y="80" width="1042" height="996" extended-state="0" />
+    <frame x="599" y="58" width="1016" height="1026" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27911645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3103093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.4926004" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27892813" sideWeight="0.17178503" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2032419" sideWeight="0.82821494" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3325527" sideWeight="0.4888889" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33533654" sideWeight="0.82821494" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1546894" sideWeight="0.49040306" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15384616" sideWeight="0.49040306" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -390,181 +387,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Strings/21.statementsSorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="58" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/22.wordPresubstitution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="46" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/23.checkWordAcronym.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/24.compareStatDiff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/26.construcPalindromeStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="123" column="3" lean-forward="true" selection-start-line="123" selection-start-column="3" selection-end-line="123" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/25.analyPhrase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/10.strFreque_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/12.strTranslation_encrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/3.strings_Arrange.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/11.strTranslation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="49" column="3" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/27.findMaxPalindromeStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-385">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/28.joinConstiPalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/29.stringDecode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="64" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/30.IP_structureAndCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="119" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/31.ipFuzzy_Match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="54" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/1.findListBalance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/3.maxAbsoluvuleDiff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="88" column="50" lean-forward="true" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/2.findListLossStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/4.conditionGetValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/6.findRepeMaxStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/5.maxSubsequenceSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/8.findList_salientPoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/9.willbeListZeroPostpostsition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/7.longestContinSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magical_DataQueue/11.listInsert_andRemoveEle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="79" column="36" lean-forward="false" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/magical_DataQueue/10.orderListMerge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
@@ -710,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="46" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="81" column="6" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,9 +560,181 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="e#526#546#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/35.analysis_BinaryTreeDeep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/36.balanceBinaryTree_symmetryBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="65" column="23" lean-forward="false" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/37.binaryTreeAdd_andTravese.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="94" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/38.builtBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/39.delBinaryTreePoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/41.binarySum_andAverageValue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="75" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/40.isBrotherPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="35" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/42.entryBintreePointnum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/43.griddingMinDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="110" column="25" lean-forward="false" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tets.py" />
+    <entry file="file://$PROJECT_DIR$/magical_DataQueue/44.findAcyclicGraphAllpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/1.walkDownStairsQues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/1.formatStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="57" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/2.guessNumGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/3.combination_MealsQue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/5.arithmeticRobot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/4.plantTreeQues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/6.pokerGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/7.beerBottleQue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/8.lampBulbQue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/9.gemIdentifity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/10.tictactoeGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="72" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/11.whiteChickenForWhiteMoney.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="78" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/13.BonusInteretsRateQues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aKindOfQuestion/12.outputRandomThreeDigt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
